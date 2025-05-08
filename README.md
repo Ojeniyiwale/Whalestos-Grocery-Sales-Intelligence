@@ -67,8 +67,11 @@ Audit logistics and shipping models
 Cut unnecessary costs and improve delivery times
 
 📁 Files to Include
+
 data/whalestos-sales-clean.csv: Cleaned sales dataset
+
 reports/whalestos-growth-analysis.pdf: Full report with dashboards
+
 dashboards/*.png: Visual aids extracted from Excel
 
 🛠 Tools Used
