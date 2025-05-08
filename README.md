@@ -1,8 +1,9 @@
 # Whalestos-Grocery-Sales-Intelligence
 ![Dashboard 1](https://github.com/user-attachments/assets/e7f9fbf3-9c7f-43ab-bff4-c44bd6b42006)
-Welcome to the official GitHub repository for the business performance analysis of Whalestos Grocery, a data-driven case study exploring sales insights, customer behavior, regional performance, and strategic recommendations for sustainable growth.
-📁 Repository Structure
 
+Welcome to the official GitHub repository for the business performance analysis of Whalestos Grocery, a data-driven case study exploring sales insights, customer behavior, regional performance, and strategic recommendations for sustainable growth.
+
+📁 Repository Structure
 📦whalestos-grocery-sales-intelligence
  ┣ 📁 dashboards/              # Visual charts and dashboards (inserted as PNGs or JPGs)
  ┣ 📁 data/                    # Raw and cleaned datasets (CSV, Excel)
