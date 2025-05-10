@@ -4,11 +4,17 @@
 Welcome to the official GitHub repository for the business performance analysis of Whalestos Grocery, a data-driven case study exploring sales insights, customer behavior, regional performance, and strategic recommendations for sustainable growth.
 
 📁 Repository Structure
+
 📦whalestos-grocery-sales-intelligence
+
  ┣ 📁 dashboards/              # Visual charts and dashboards (inserted as PNGs or JPGs)
+ 
  ┣ 📁 data/                    # Raw and cleaned datasets (CSV, Excel)
+ 
  ┣ 📁 reports/                 # Full narrative and strategic report (PDF/Markdown)
+ 
  ┣ 📄 README.md                # Project overview and summary
+ 
  ┗ 📄 LICENSE                  # MIT License
 
 🎯 Project Objective
@@ -26,6 +32,7 @@ Top Sellers: Nancy Freechafer and Anne Larsen generated nearly $200K
 Customer Leader: Company D contributed over $67K
 Regional Peak: The Northern Region generated 35% of all revenue
 Category Star: Beverages dominated sales performance
+Top City: New York ($67K)
 
 📊 Dashboards & Visualizations
 Add your visual assets in the dashboards/ folder. Suggested filenames:
@@ -47,21 +54,27 @@ sale-rep-report-for-the-year.png ![image](https://github.com/user-attachments/as
 1. Talent Optimization
 Create mentorship pipelines using top reps
 Systematize performance coaching
+
 2. Seasonal Strategy Development
 Boost promotions in slow months (e.g., February)
 Use themed events to stimulate demand
+
 3. Customer Segmentation
 Use purchase history to develop personas
 Implement targeted campaigns through CRM tools
+
 4. Loyalty Program Implementation
 Reward top-tier buyers like Company D
 Encourage lower-tier customers to scale up
+
 5. Dynamic Pricing Strategy
 Adjust pricing by segment/product elasticity
 Optimize for both revenue and margin
+
 6. Regional Growth Focus
 Scale Northern strategies across other regions
 Address localized gaps in East/South zones
+
 7. Operational Efficiency
 Audit logistics and shipping models
 Cut unnecessary costs and improve delivery times
